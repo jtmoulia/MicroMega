@@ -12,3 +12,7 @@ Upload an rgb cycling script to a AT328P microcontroller:
 cd rgb-strip
 make ARDUINO=$ARDUINOMKPATH upload
 ```
+
+## License
+
+BSD-3-Clause
